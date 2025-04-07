@@ -1,14 +1,8 @@
-.DS_*
+# Исключаем node_modules
+node_modules/
+
+# Исключаем временные файлы
 *.log
-logs
-**/*.backup.*
-**/*.back.*
-
-node_modules
-bower_components
-
-*.sublime*
-
-psd
-thumb
-sketch
+.cache/
+dist/
+build/g
