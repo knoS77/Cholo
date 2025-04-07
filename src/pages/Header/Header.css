@@ -10,7 +10,7 @@ header{
 }
 .header__container {
     padding: 15px;
-    margin: 15px;
+    /* margin: 15px; */
     display: flex;
     justify-content: space-between
 }
