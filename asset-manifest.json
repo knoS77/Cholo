@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cholo/static/css/main.4df91ddb.css",
+    "main.js": "/Cholo/static/js/main.0b96e6bf.js",
+    "static/media/instagram.png": "/Cholo/static/media/instagram.28944b9a16197e849f88.png",
+    "static/media/e-commerece.png": "/Cholo/static/media/e-commerece.00b04ab292ea2bc5a2c8.png",
+    "static/media/beatsTwo.png": "/Cholo/static/media/beatsTwo.5093bcd2e8a03bcfcb26.png",
+    "static/media/SendPay 1.png": "/Cholo/static/media/SendPay 1.f56e71d18bf601f3aff9.png",
+    "static/media/telegram.png": "/Cholo/static/media/telegram.0a4265bfea7fe8beeaf2.png",
+    "static/media/heroImg 1.png": "/Cholo/static/media/heroImg 1.cb9a8301132dbccbc255.png",
+    "static/media/vk.png": "/Cholo/static/media/vk.fb8dd5b933e03868f58a.png",
+    "index.html": "/Cholo/index.html",
+    "main.4df91ddb.css.map": "/Cholo/static/css/main.4df91ddb.css.map",
+    "main.0b96e6bf.js.map": "/Cholo/static/js/main.0b96e6bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df91ddb.css",
+    "static/js/main.0b96e6bf.js"
+  ]
+}
