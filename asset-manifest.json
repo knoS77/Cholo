@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cholo/static/css/main.84645ac4.css",
+    "main.css": "/Cholo/static/css/main.7d3b2035.css",
     "main.js": "/Cholo/static/js/main.0b96e6bf.js",
     "static/media/instagram.png": "/Cholo/static/media/instagram.28944b9a16197e849f88.png",
     "static/media/e-commerece.png": "/Cholo/static/media/e-commerece.00b04ab292ea2bc5a2c8.png",
@@ -10,11 +10,11 @@
     "static/media/heroImg 1.png": "/Cholo/static/media/heroImg 1.cb9a8301132dbccbc255.png",
     "static/media/vk.png": "/Cholo/static/media/vk.fb8dd5b933e03868f58a.png",
     "index.html": "/Cholo/index.html",
-    "main.84645ac4.css.map": "/Cholo/static/css/main.84645ac4.css.map",
+    "main.7d3b2035.css.map": "/Cholo/static/css/main.7d3b2035.css.map",
     "main.0b96e6bf.js.map": "/Cholo/static/js/main.0b96e6bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.84645ac4.css",
+    "static/css/main.7d3b2035.css",
     "static/js/main.0b96e6bf.js"
   ]
 }
